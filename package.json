@@ -1,0 +1,17 @@
+{
+  "name": "number-to-letter",
+  "version": "1.0.0",
+  "description": "Convert a number to text (french)",
+  "main": "nombre_en_lettre.js",
+  "homepage": "https://github.com/luxigo/number-to-letters",
+  "repository": {                                                                                                     
+    "type": "git",
+    "url": "git://github.com/luxigo/number-to-letters"
+  },             
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bricegala@gmail.com",
+  "license": "CC-BY-SA-4.0"
+}
